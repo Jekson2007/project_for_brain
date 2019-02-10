@@ -1,0 +1,18 @@
+
+open or make directory
+
+after that you mast copy all file to our directory
+
+and open terminal and in the terminal run the command:
+
+virtualenv virt
+source virt/bin/activate
+pip install -r requirements.txt
+./excel.py
+Myfile.xlsx
+
+when you will see string with 'Enter name file and it adress directory exel file'
+and click "ENTER" or you mast write file name 'Myfile.xlsx'
+and after that you will can get diagrame with calculated functions
+
+
